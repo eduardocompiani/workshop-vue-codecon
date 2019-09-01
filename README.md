@@ -1,29 +1,5 @@
-# workshop-codecon
+# Descrição
 
-## Project setup
-```
-npm install
-```
+Código desenvolvido durante o Workshop Vue oferecndio pela Operand
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+O repositório do workshop pode ser visto [aqui](https://github.com/operandbr/workshop-vue-codecon)
